@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Frequently Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suncloudsmoon)](https://github.com/suncloudsmoon/github-readme-stats)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=suncloudsmoon&line_height=40)](https://github.com/suncloudsmoon/github-readme-stats)
